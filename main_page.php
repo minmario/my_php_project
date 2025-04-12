@@ -11,7 +11,7 @@
       <label for="relation">릴레이션을 선택하시오:</label>
       <input type="text" id="relation" name="relation"/>
     </p>
-    <input type="submit" value="보내기">
+    <input type="submit" value="보내기"/>
   </form>
 </body>
 </html>
