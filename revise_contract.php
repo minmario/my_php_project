@@ -20,7 +20,7 @@ if ($conn->connect_error) {
 }
 
 // 계약번호가 전달되면 해당 계약 정보를 불러옴
-if (isset($_GET[''])) {
+if (isset($_GET['contract_number'])) {
     $contract_number = $_GET['contract_number'];
 
     // 해당 계약 정보 가져오기
